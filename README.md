@@ -1,2 +1,2 @@
-# EAVPTests
-Test Files for EAVP
+# ICETests
+Private repository for storing ICETests files
